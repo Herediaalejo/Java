@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="636f71e3-287f-4794-b462-8646c395dd26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/POO/src/Automovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/EjemploAutomovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/EjemploAutomovilArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/EjemploAutomovilEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/EjemploAutomovilRelacionesObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/EjemploAutomovilStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/Estanque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/Rueda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/TipoAutomovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/src/TipoMotor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arreglos/arreglos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrices/matrices.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2bCEqHBk1JGV33JpxbgRZTpSGej" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alejo/OneDrive/Documentos/Curso Java Udemy/Proyectos"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="636f71e3-287f-4794-b462-8646c395dd26" name="Changes" comment="" />
+      <created>1705710849264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705710849264</updated>
+    </task>
+    <servers />
+  </component>
+</project>
