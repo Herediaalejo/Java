@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="636f71e3-287f-4794-b462-8646c395dd26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/POO/src/Automovil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/EjemploAutomovil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/EjemploAutomovilArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/EjemploAutomovilEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/EjemploAutomovilRelacionesObjetos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/EjemploAutomovilStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/Estanque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/Rueda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/TipoAutomovil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/src/TipoMotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arreglos/arreglos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrices/matrices.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="636f71e3-287f-4794-b462-8646c395dd26" name="Changes" comment="agrego ejercicio factura" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2bCEqHBk1JGV33JpxbgRZTpSGej" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +27,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/alejo/OneDrive/Documentos/Curso Java Udemy/Proyectos"
+    "last_opened_file_path": "C:/Users/alejo/OneDrive/Documentos/Curso Java Udemy/Proyectos/poo_sobrecarga",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -60,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1705710849264</updated>
     </task>
+    <task id="LOCAL-00001" summary="agrego ejercicio factura">
+      <option name="closed" value="true" />
+      <created>1705960590494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705960590494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="agrego ejercicio factura" />
+    <option name="LAST_COMMIT_MESSAGE" value="agrego ejercicio factura" />
   </component>
 </project>
