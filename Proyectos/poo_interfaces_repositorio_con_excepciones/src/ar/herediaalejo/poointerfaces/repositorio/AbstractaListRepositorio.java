@@ -4,7 +4,6 @@ import ar.herediaalejo.poointerfaces.repositorio.excepciones.EscrituraAccesoDato
 import ar.herediaalejo.poointerfaces.repositorio.excepciones.LecturaAccesoDatoException;
 import ar.herediaalejo.poointerfaces.modelo.BaseEntity;
 import ar.herediaalejo.poointerfaces.repositorio.excepciones.RegistroDuplicadoAccesoDatoException;
-import org.aguzman.poointerfaces.repositorio.excepciones.*;
 
 import java.util.ArrayList;
 import java.util.List;
