@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hilos_executor.iml" filepath="$PROJECT_DIR$/hilos_executor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlfanumericoHilos.iml" filepath="$PROJECT_DIR$/AlfanumericoHilos.iml" />
     </modules>
   </component>
 </project>
