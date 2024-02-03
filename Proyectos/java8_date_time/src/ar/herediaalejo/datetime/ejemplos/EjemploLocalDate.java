@@ -20,7 +20,7 @@ public class EjemploLocalDate {
 
         DayOfWeek diaSemana = fechaActual.getDayOfWeek();
         System.out.println("Numero del día: " + diaSemana.getValue());
-        System.out.println("Nombre del día: " + diaSemana.getDisplayName(TextStyle.FULL, new Locale("es", "ES")));
+        System.out.println("Nombre del día: " + diaSemana.getDisplayName(TextStyle.FULL, Locale.of("es", "ES")));
         System.out.println("Año: " + fechaActual.getYear());
         System.out.println("Día del año: " + fechaActual.getDayOfYear());
         System.out.println("Era: " + fechaActual.getEra());
