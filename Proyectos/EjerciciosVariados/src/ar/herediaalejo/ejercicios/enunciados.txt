@@ -1,0 +1,34 @@
+Ejercicio de Programación Básica:
+
+Enunciado: Implementa un programa que imprima los números del 1 al 100. Pero, para los múltiplos de 3, imprime "Fizz" en lugar del número y, para los múltiplos de 5, imprime "Buzz". Para los números que son múltiplos de ambos (3 y 5), imprime "FizzBuzz".
+Propósito: Evaluar habilidades básicas de programación y lógica.
+
+Ejercicio de Manipulación de Listas:
+
+Enunciado: Dada una lista de números, implementa una función que devuelva la suma de los números pares.
+Propósito: Evaluar habilidades en manipulación de listas y conocimientos básicos de operaciones aritméticas.
+
+Ejercicio de Programación Orientada a Objetos (POO):
+
+Enunciado: Crea una clase Persona con atributos como nombre, edad, y método para imprimir detalles. Luego, crea una lista de personas y ordena la lista por edad.
+Propósito: Evaluar conocimientos de POO y capacidad para trabajar con listas y ordenamiento.
+
+Ejercicio de Manipulación de Cadenas:
+
+Enunciado: Implementa una función que invierta una cadena sin utilizar métodos predefinidos de Java.
+Propósito: Evaluar habilidades en manipulación de cadenas y comprensión de estructuras de bucles.
+
+Ejercicio de Manejo de Excepciones:
+
+Enunciado: Escribe un programa que lea un número desde el usuario y maneje la excepción si se ingresa un valor no numérico.
+Propósito: Evaluar conocimientos sobre manejo de excepciones y entrada de usuario.
+
+Ejercicio de Streams y Lambdas:
+
+Enunciado: Dada una lista de nombres, utiliza streams y lambdas para filtrar los nombres que comienzan con la letra "A" y luego imprímelos en mayúsculas.
+Propósito: Evaluar conocimientos de streams, lambdas y manipulación funcional de colecciones.
+
+Ejercicio de Concurrencia:
+
+Enunciado: Implementa un programa que realiza una tarea en un hilo y otra tarea en un hilo separado. Asegúrate de manejar la sincronización adecuadamente.
+Propósito: Evaluar conocimientos de concurrencia y manejo seguro de hilos.
