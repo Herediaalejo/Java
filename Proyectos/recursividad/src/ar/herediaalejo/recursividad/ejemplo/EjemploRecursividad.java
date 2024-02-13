@@ -1,6 +1,6 @@
-package org.aguzman.recursividad.ejemplo;
+package ar.herediaalejo.recursividad.ejemplo;
 
-import org.aguzman.recursividad.ejemplo.models.Componente;
+import ar.herediaalejo.recursividad.ejemplo.models.Componente;
 
 import java.util.stream.Stream;
 

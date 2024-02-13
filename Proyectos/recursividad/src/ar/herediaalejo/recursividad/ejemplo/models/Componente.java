@@ -1,4 +1,4 @@
-package org.aguzman.recursividad.ejemplo.models;
+package ar.herediaalejo.recursividad.ejemplo.models;
 
 import java.util.ArrayList;
 import java.util.List;
